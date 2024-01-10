@@ -1,8 +1,19 @@
-# React + Vite
+# Docs React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an frontend ReactJS web app , which contains draggable note cards in the foreground of a Docs background components
 
-Currently, two official plugins are available:
+### **Framer Motion** is been used to make the cards Draggable in the Web app 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech used :
+- React JS
+- Tailwind CSS
+- Framer Motion
+
+***NOTE*** : Installation of node modules is required before running the code 
+
+## Steps and Commands to run the project : 
+1. **npm create vite@latest** , then add project name - > select javascript
+2. Then cd into the project-name directory & open vs-code in it
+3. Type **npm install** or **npm i** in terminal
+4. **npm run dev**  
+
